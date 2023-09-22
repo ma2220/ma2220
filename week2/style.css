@@ -33,6 +33,9 @@ header {
     display: block;
 }
 
+nav{
+    position: fixed;
+}
 
 /* Navigation Styles */
 nav ul {
@@ -87,7 +90,7 @@ main {
 .services {
     margin: 2rem auto;
     padding: 2rem;
-    background-color:;
+    background-color:black;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
