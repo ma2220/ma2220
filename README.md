@@ -1,6 +1,6 @@
 # Mostafa
 
-Computer Science graduate and developer with a broad foundation across software engineering, intelligent systems, and security.
+CS graduate and developer
 
 ---
 
