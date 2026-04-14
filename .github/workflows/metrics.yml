@@ -1,14 +1,11 @@
 name: Metrics
 
-
 on:
   schedule:
-    - cron: "0 0 * * *"→ Runs at 00:00
-
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
-
 
 jobs:
   github-metrics:
@@ -35,4 +32,3 @@ jobs:
           output_action: commit
           filename: metrics.svg
           committer_message: "chore: update metrics"
-
