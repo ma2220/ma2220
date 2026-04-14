@@ -1,6 +1,6 @@
 # Mostafa
 
-Computer Science graduate and developer with a broad foundation across software engineering, intelligent systems, and security.
+CS graduate and developer
 
 ---
 
@@ -75,7 +75,7 @@ Researched and implemented differential privacy mechanisms to enable secure, pri
 Python tool for analyzing and visualizing stock market data and trends.
 
 **[HomeSpace](https://github.com/ma2220/HomeSpace-App)**  
-Full-stack property rental platform built with React and Node.js, featuring listings, search, and user authentication.
+Full-stack Home Management platform built with React and Node.js, featuring search, and user authentication.
 
 ---
 
