@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mostafa
 
-<!--
-**ma2220/ma2220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a broad foundation across software engineering, intelligent systems, and security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages:** Python · Java · C · JavaScript  
+**Areas:** AI / ML · Cybersecurity · Linux · Systems Programming
+
+---
+
+## Projects
+
+**Differential Privacy in Healthcare** — Dissertation  
+Researched and implemented differential privacy mechanisms to enable secure, privacy-preserving analysis of sensitive medical data.
+
+**StockAnalyzer**  
+Python tool for analyzing and visualizing stock market data and trends.
+
+---
+
+*Open to opportunities in software engineering, AI/ML, and cybersecurity.*
