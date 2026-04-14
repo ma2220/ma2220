@@ -37,4 +37,6 @@ Python tool for analyzing and visualizing stock market data and trends.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma2220&show_icons=true&theme=default&hide_border=true&count_private=true)
+## GitHub Metrics
+
+![Metrics](./metrics.svg)
